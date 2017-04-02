@@ -4,3 +4,6 @@ c:\users\shawn\documents\visual studio 2015\Projects\ConsoleApplication2\Console
 c:\users\shawn\documents\visual studio 2015\Projects\ConsoleApplication2\ConsoleApplication2\obj\Debug\ConsoleApplication2.csprojResolveAssemblyReference.cache
 c:\users\shawn\documents\visual studio 2015\Projects\ConsoleApplication2\ConsoleApplication2\obj\Debug\ConsoleApplication2.exe
 c:\users\shawn\documents\visual studio 2015\Projects\ConsoleApplication2\ConsoleApplication2\obj\Debug\ConsoleApplication2.pdb
+C:\Users\shawn\Desktop\C-Sharp-MindMap git檔案\C# Practice File\if...else if...else敘述練習\ConsoleApplication2\bin\Debug\ConsoleApplication2.exe.config
+C:\Users\shawn\Desktop\C-Sharp-MindMap git檔案\C# Practice File\if...else if...else敘述練習\ConsoleApplication2\obj\Debug\ConsoleApplication2.exe
+C:\Users\shawn\Desktop\C-Sharp-MindMap git檔案\C# Practice File\if...else if...else敘述練習\ConsoleApplication2\obj\Debug\ConsoleApplication2.pdb
