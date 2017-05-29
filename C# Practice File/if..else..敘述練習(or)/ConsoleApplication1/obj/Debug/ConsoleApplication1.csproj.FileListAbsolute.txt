@@ -10,3 +10,6 @@ C:\Users\user\Desktop\c#練習\if..else..敘述練習(or)\ConsoleApplication1\ob
 C:\Users\user\Desktop\c#練習\if..else..敘述練習(or)\ConsoleApplication1\bin\Debug\ConsoleApplication1.exe
 C:\Users\user\Desktop\c#練習\if..else..敘述練習(or)\ConsoleApplication1\bin\Debug\ConsoleApplication1.pdb
 C:\Users\user\Desktop\c#練習\if..else..敘述練習(or)\ConsoleApplication1\obj\Debug\ConsoleApplication1.csprojResolveAssemblyReference.cache
+C:\Users\shawn\Desktop\C-Sharp-MindMap git檔案\C# Practice File\if..else..敘述練習(or)\ConsoleApplication1\bin\Debug\ConsoleApplication1.exe.config
+C:\Users\shawn\Desktop\C-Sharp-MindMap git檔案\C# Practice File\if..else..敘述練習(or)\ConsoleApplication1\obj\Debug\ConsoleApplication1.exe
+C:\Users\shawn\Desktop\C-Sharp-MindMap git檔案\C# Practice File\if..else..敘述練習(or)\ConsoleApplication1\obj\Debug\ConsoleApplication1.pdb
